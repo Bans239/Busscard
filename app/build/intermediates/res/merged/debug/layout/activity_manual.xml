@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.hppc.business.Manual">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+
+
+    <LinearLayout
+            android:id="@+id/employee_id_form"
+            android:layout_width="400dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="0dp"
+            >
+            <FrameLayout
+                android:layout_width="400dp"
+                android:layout_height="200dp"
+                android:id="@+id/frameLayout"
+                android:layout_marginBottom="25dp">
+
+                <ImageView
+                    android:layout_width="400dp"
+                    android:layout_height="200dp"
+                    android:id="@+id/imgView"
+                    android:src="@drawable/image"
+                    android:layout_marginBottom="25dp"/>
+
+            </FrameLayout>
+
+
+            <View
+                android:layout_width="330dp"
+                android:layout_height="1dp"
+                android:background="@android:color/black"
+                android:layout_marginBottom="35dp"/>
+
+            <EditText
+                android:id="@+id/editText"
+                android:layout_width="wrap_content"
+
+                android:layout_height="wrap_content"
+                android:ems="15"
+                android:inputType="textPersonName"
+                android:hint="Name of the Person"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginBottom="18dp"
+                />
+
+            <EditText
+                android:id="@+id/editText2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="15"
+                android:inputType="textPersonName"
+                android:hint="Company Name"
+                android:layout_below="@+id/editText"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginBottom="18dp"/>
+
+            <EditText
+                android:id="@+id/editText4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/editText2"
+                android:ems="15"
+                android:hint="Department"
+                android:inputType="textAutoComplete|textNoSuggestions|textPostalAddress"
+                android:layout_marginBottom="18dp"/>
+
+
+
+
+
+            <EditText
+                android:id="@+id/editText9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="15"
+                android:hint="Position"
+                android:inputType="textPersonName"
+                android:layout_below="@+id/editText4"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginBottom="18dp"/>
+
+            <EditText
+                android:id="@+id/editText11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/editText9"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:ems="15"
+                android:hint="Address"
+                android:inputType="textMultiLine|textPostalAddress"
+                android:layout_marginBottom="60dp"/>
+
+
+
+
+            <View
+                android:layout_width="330dp"
+                android:layout_height="1dp"
+                android:background="@android:color/black"
+                android:layout_marginBottom="35dp"/>
+
+
+
+
+
+        <EditText
+            android:id="@+id/editText5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="15"
+            android:hint="Tel No1"
+            android:inputType="phone"
+            android:layout_below="@+id/editText11"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="18dp"/>
+
+
+        <EditText
+            android:id="@+id/editText20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="15"
+            android:hint="Tel No2"
+            android:inputType="phone"
+            android:layout_below="@+id/editText5"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="18dp"/>
+
+        <EditText
+            android:id="@+id/editText6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="15"
+            android:hint="Mob No."
+            android:inputType="phone"
+            android:layout_below="@+id/editText20"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="18dp"/>
+
+
+
+
+
+        <EditText
+            android:id="@+id/editText21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="15"
+            android:hint="Fax No"
+            android:inputType="phone"
+            android:layout_below="@+id/editText6"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="18dp"/>
+
+        <EditText
+                android:id="@+id/editText7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="15"
+                android:hint="Email"
+                android:inputType="textEmailAddress"
+                android:layout_below="@+id/editText21"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginBottom="18dp"/>
+
+            <EditText
+                android:id="@+id/editText8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="15"
+                android:hint="URL"
+                android:inputType="textUri|textPersonName"
+                android:layout_below="@+id/editText7"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginBottom="18dp"/>
+
+
+            <EditText
+                android:id="@+id/editText10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/editText8"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:ems="15"
+                android:hint="date"
+                android:inputType="date"
+                android:layout_marginBottom="28dp"/>
+
+            <View
+                android:layout_width="330dp"
+                android:layout_height="1dp"
+                android:background="@android:color/black"
+                android:layout_marginBottom="35dp"/>
+
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="250dp"
+                android:layout_height="55dp"
+                android:layout_centerHorizontal="true"
+                android:text="Select Image"
+                android:layout_marginBottom="18dp"/>
+
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="150dp"
+                android:layout_height="55dp"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/button3"
+                android:text="Save" />
+
+        </LinearLayout>
+    </RelativeLayout>
+    <!---->
+
+</ScrollView>

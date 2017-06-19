@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+
+        android:orientation="horizontal"
+        android:weightSum="1"
+        android:clickable="true">
+        <ImageButton
+            android:id="@+id/btn_mail"
+            android:layout_width="130dip"
+            android:background="#F9F4F3"
+
+            android:layout_height="60dp"
+            android:src="@drawable/latest_mail" />
+
+         <ImageButton
+             android:id="@+id/btn_call"
+             android:layout_width="130dip"
+            android:layout_height="60dp"
+
+            android:background="#F9F4F3"
+            android:src="@drawable/latest_call"
+             />
+
+    <ImageButton
+        android:id="@+id/btn_map"
+        android:layout_width="130dip"
+
+        android:layout_height="60dp"
+        android:background="#F9F4F3"
+        app:srcCompat="@drawable/latest_marker"
+
+        />
+
+
+</LinearLayout>
+
+
+

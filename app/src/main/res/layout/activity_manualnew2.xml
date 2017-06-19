@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none"
+        tools:context="com.example.hppc.business.Manual">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <LinearLayout
+                android:id="@+id/employee_id_form"
+                android:layout_width="390dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:layout_marginLeft="0dp"
+                android:layout_marginTop="0dp"
+                android:weightSum="1">
+                <FrameLayout
+                    android:layout_width="400dp"
+                    android:layout_height="200dp"
+                    android:id="@+id/frameLayout"
+                    android:layout_marginBottom="25dp">
+
+                    <ImageView
+                        android:layout_width="400dp"
+                        android:layout_height="200dp"
+                        android:id="@+id/imgView"
+                        android:src="@drawable/image"
+                        android:layout_marginBottom="25dp"/>
+
+                </FrameLayout>
+
+
+                <View
+                    android:layout_width="390dp"
+                    android:layout_height="1dp"
+                    android:background="@android:color/black"
+                    android:layout_marginBottom="35dp"/>
+
+                <TextView
+                    android:id="@+id/Text1"
+                    android:layout_width="390dp"
+                    android:textSize="18dp"
+                    android:layout_height="30dp"
+                    android:inputType="textPersonName"
+                    android:hint="Name - ABC"
+                    android:layout_marginBottom="18dp"
+                    android:layout_marginLeft="20dp"
+                    />
+                <TextView
+                    android:id="@+id/Text2"
+                    android:layout_width="390dp"
+                    android:textSize="18dp"
+                    android:layout_height="30dp"
+                    android:inputType="textPersonName"
+                    android:hint="Company Name - ABCDE"
+                    android:layout_marginBottom="18dp"
+                    android:layout_marginLeft="20dp"/>
+                <TextView
+                    android:id="@+id/Text3"
+                    android:layout_width="390dp"
+                    android:textSize="18dp"
+                    android:layout_height="30dp"
+                    android:inputType="textPersonName"
+                    android:hint="Department - XYZ"
+                    android:layout_marginBottom="18dp"
+                    android:layout_marginLeft="20dp"/>
+
+
+
+                <TextView
+                    android:id="@+id/Text4"
+                    android:layout_width="390dp"
+                    android:textSize="18dp"
+                    android:layout_height="30dp"
+                    android:inputType="textPersonName"
+                    android:hint="Position - XYZ"
+                    android:layout_marginBottom="18dp"
+                    android:layout_marginLeft="20dp"                    />
+                <TextView
+                    android:id="@+id/Text5"
+                    android:layout_width="390dp"
+                    android:textSize="18dp"
+                    android:layout_height="30dp"
+                    android:inputType="textPersonName"
+                    android:hint="Address - CITY  COUNTRY"
+                    android:layout_marginBottom="18dp"
+                    android:layout_marginLeft="20dp"/>
+
+
+                <View
+                    android:layout_width="390dp"
+                    android:layout_height="1dp"
+                    android:background="@android:color/black"
+                    android:layout_marginBottom="35dp"
+                    android:layout_marginLeft="20dp"/>
+
+
+                <TextView
+                    android:id="@+id/Text6"
+                    android:layout_width="390dp"
+                    android:textSize="18dp"
+                    android:layout_height="30dp"
+                    android:inputType="textPersonName"
+                    android:hint="Tel No1 - 123"
+                    android:layout_marginBottom="18dp"
+                    android:layout_marginLeft="20dp"                    />
+                <TextView
+                    android:id="@+id/Text7"
+                    android:layout_width="390dp"
+                    android:textSize="18dp"
+                    android:layout_height="30dp"
+                    android:inputType="textPersonName"
+                    android:hint="Tel No2 - 123"
+                    android:layout_marginBottom="18dp"
+                    android:layout_marginLeft="20dp"/>
+                <TextView
+                    android:id="@+id/Text8"
+                    android:layout_width="390dp"
+                    android:textSize="18dp"
+                    android:layout_height="30dp"
+                    android:inputType="textPersonName"
+                    android:hint="Mob No - 123"
+                    android:layout_marginBottom="18dp"
+                    android:layout_marginLeft="20dp"                    />
+                <TextView
+                    android:id="@+id/Text9"
+                    android:layout_width="390dp"
+                    android:textSize="18dp"
+                    android:layout_height="30dp"
+                    android:inputType="textPersonName"
+                    android:hint="Fax No - 123"
+                    android:layout_marginBottom="18dp"
+                    android:layout_marginLeft="20dp"                    />
+                <TextView
+                    android:id="@+id/Text10"
+                    android:layout_width="390dp"
+                    android:textSize="18dp"
+                    android:layout_height="30dp"
+                    android:inputType="textPersonName"
+                    android:hint="Email - A@gmail.com"
+                    android:layout_marginBottom="18dp"
+                    android:layout_marginLeft="20dp"
+                    />
+                <TextView
+                    android:id="@+id/Text11"
+                    android:layout_width="390dp"
+                    android:textSize="18dp"
+                    android:layout_height="30dp"
+                    android:inputType="textPersonName"
+                    android:hint="URL - http://abc.com"
+                    android:layout_marginBottom="18dp"
+                    android:layout_marginLeft="20dp"/>
+                <TextView
+                    android:id="@+id/Text12"
+                    android:layout_width="390dp"
+                    android:textSize="18dp"
+                    android:layout_height="30dp"
+                    android:inputType="textPersonName"
+                    android:hint="Date - 11/11/11"
+                    android:layout_marginBottom="18dp"
+                    android:layout_marginLeft="20dp"/>
+
+                <View
+                    android:layout_width="390dp"
+                    android:layout_height="1dp"
+                    android:background="@android:color/black"
+                    android:layout_marginBottom="35dp"/>
+
+
+                <Button
+                    android:id="@+id/button3"
+                    android:layout_width="250dp"
+                    android:layout_height="55dp"
+                    android:layout_centerHorizontal="true"
+                    android:text="Select Image"
+                    android:layout_marginBottom="18dp"
+                    android:layout_weight="0.01" />
+
+
+                <Button
+                    android:id="@+id/button"
+                    android:layout_width="150dp"
+                    android:layout_height="55dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_below="@+id/button3"
+                    android:text="Save"
+                    android:layout_marginBottom="60dp"/>
+
+
+
+                />
+
+
+
+            </LinearLayout>
+        </RelativeLayout>
+        <!---->
+
+    </ScrollView>
+
+
+
+
+    <RelativeLayout
+        android:id="@+id/footer"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:background="#F9F4F3"
+        android:gravity="center"
+        >
+        <include layout="@layout/entry"
+            android:id="@+id/entry1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="1dp"
+            android:text="Footer"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            />
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/bansal/.android/build-cache/f788751e824b684ba95e19cc5cfce343b8d57532/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/home/bansal/AndroidStudioProjects/Application_Card/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/bansal/.android/build-cache/816cc0096b332bc83b755691a5054d64e3d0b233/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/bansal/.android/build-cache/816cc0096b332bc83b755691a5054d64e3d0b233/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/bansal/.android/build-cache/f788751e824b684ba95e19cc5cfce343b8d57532/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/home/bansal/AndroidStudioProjects/Application_Card/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/bansal/.android/build-cache/816cc0096b332bc83b755691a5054d64e3d0b233/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/home/bansal/AndroidStudioProjects/Application_Card/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/home/bansal/AndroidStudioProjects/Application_Card/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/home/bansal/AndroidStudioProjects/Application_Card/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/bansal/.android/build-cache/f788751e824b684ba95e19cc5cfce343b8d57532/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/home/bansal/AndroidStudioProjects/Application_Card/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/bansal/.android/build-cache/f788751e824b684ba95e19cc5cfce343b8d57532/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/bansal/.android/build-cache/816cc0096b332bc83b755691a5054d64e3d0b233/output/res/drawable-v21/avd_hide_password.xml"
+    }
+]

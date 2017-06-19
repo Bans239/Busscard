@@ -1,0 +1,7 @@
+#Mon Jun 19 06:48:04 IST 2017
+base.0=/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_187eef0021ffca0086fe9b0e2059cb22c121d838
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b71a455993b86332a79f301bcb17ae54c7a7ca71/classes.dex
+base.1=/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b71a455993b86332a79f301bcb17ae54c7a7ca71
+file.0=/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_187eef0021ffca0086fe9b0e2059cb22c121d838/classes.dex

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/bansal/.android/build-cache/db3afc00df6330d58e6a5b38a4d61af56acfadd3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="928b73afabcd116944e9487771d4121168eac1a4">
+        <dex dex="/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/pre-dexed/debug/classes_0eafc6354eb05874aef189535390e44080b10f55.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a214ef305dca67321f1c6ef2d249d3c1f51d3e88">
+        <dex dex="/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b71a455993b86332a79f301bcb17ae54c7a7ca71/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bansal/.android/build-cache/24c062c4dea3e4ed3ddd0d9e7f2290f32fe0d2c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/pre-dexed/debug/classes_f36cef9e90317d9287dc359a5822e163a59a3f5d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/bansal/AndroidStudioProjects/Application_Card/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_187eef0021ffca0086fe9b0e2059cb22c121d838/classes.dex" />
+    </item>
+
+</items>

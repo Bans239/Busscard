@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Export" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/male"
+            android:title="Business Cards" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/info"
+            android:title="Manual Entry" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/scheduler"
+            android:title="Web Scheduler" />
+
+
+
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Gallery" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </group>
+
+
+</menu>

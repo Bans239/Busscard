@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:2:1-59:12
+	package
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTRNET
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:9:22-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] /home/bansal/.android/build-cache/8ee6d2ce8704f31fb073e3e603aa01e6a36ff103/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:11:22-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:12:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:14:5-69
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:14:22-66
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:16:22-76
+application
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:18:5-57:19
+MERGED from [com.android.support:percent:22.2.0] /home/bansal/.android/build-cache/db3afc00df6330d58e6a5b38a4d61af56acfadd3/output/AndroidManifest.xml:22:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/bansal/.android/build-cache/24c062c4dea3e4ed3ddd0d9e7f2290f32fe0d2c7/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] /home/bansal/.android/build-cache/816cc0096b332bc83b755691a5054d64e3d0b233/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/bansal/.android/build-cache/f788751e824b684ba95e19cc5cfce343b8d57532/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/bansal/.android/build-cache/50feeb7dc9ca6d1bd905d1fc8a4d7e19b7c5e4a5/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/bansal/.android/build-cache/761f0a344eefe8fff93f43e1f1b48db06efdbdee/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/bansal/.android/build-cache/74e67b03b4ac55e6286459dcd36b6aea673e8c23/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/bansal/.android/build-cache/e1d03aca4729e66fa0c098d04fe4787b2501bb93/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] /home/bansal/.android/build-cache/8ee6d2ce8704f31fb073e3e603aa01e6a36ff103/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /home/bansal/.android/build-cache/3641e1ed46d746c977523785a6f267fe57168ec3/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /home/bansal/.android/build-cache/2b8c02a864361acd2144f82ccb14f0eee6690779/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /home/bansal/.android/build-cache/bf91e87559c4af8d9bdd02b6744703b0de93b912/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /home/bansal/.android/build-cache/2565fbb551af4edb7909be948eb65263b141d34c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/bansal/.android/build-cache/38f047a7e609e7a463038c63a307cec4dec33787/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/bansal/.android/build-cache/4a949c2cf210339822145bf44cac8e32a010629d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/bansal/.android/build-cache/1f75a7b4640d26837f6dc61ba22cf1c156fdad8f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/bansal/.android/build-cache/809d4c17f8519859a90c76a2a4688ac9f41fa376/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/bansal/.android/build-cache/be09943c3240bd55cddcf48ff965a30e9b3319b9/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:21:9-35
+	android:supportsRtl
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:23:9-35
+	android:roundIcon
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:22:9-44
+	android:allowBackup
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:20:9-39
+	android:theme
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:24:9-40
+activity#com.example.hppc.business.LoginActivity
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:27:13-39
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:26:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:31:27-74
+activity#com.example.hppc.business.Front_activity
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:34:9-43:20
+	android:label
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:36:13-66
+	android:theme
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:35:13-43
+intent-filter#android.intent.category.DEFAULT+android.media.action.IMAGE_CAPTURE
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:38:13-42:29
+action#android.media.action.IMAGE_CAPTURE
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:39:25-74
+category#android.intent.category.DEFAULT
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:41:27-73
+activity#com.example.hppc.business.Manual
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:44:9-44
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:44:19-41
+activity#com.example.hppc.business.Card
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:45:9-42
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:45:19-39
+activity#com.example.hppc.business.Search
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:46:9-44
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:46:19-41
+activity#com.example.hppc.business.Map_Activity
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:47:9-59
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:47:19-47
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:49:9-51:71
+	android:value
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:51:13-68
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:50:13-58
+meta-data#com.google.android.gms.version
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:52:9-54:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /home/bansal/.android/build-cache/bf91e87559c4af8d9bdd02b6744703b0de93b912/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:54:13-66
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:53:13-58
+activity#com.example.hppc.business.Manualnew
+ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:56:9-56
+	android:name
+		ADDED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml:56:19-44
+uses-sdk
+INJECTED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:percent:22.2.0] /home/bansal/.android/build-cache/db3afc00df6330d58e6a5b38a4d61af56acfadd3/output/AndroidManifest.xml:20:5-43
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/bansal/.android/build-cache/24c062c4dea3e4ed3ddd0d9e7f2290f32fe0d2c7/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] /home/bansal/.android/build-cache/816cc0096b332bc83b755691a5054d64e3d0b233/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/bansal/.android/build-cache/f788751e824b684ba95e19cc5cfce343b8d57532/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/bansal/.android/build-cache/50feeb7dc9ca6d1bd905d1fc8a4d7e19b7c5e4a5/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/bansal/.android/build-cache/456323e6b496ef647e785e64cd90d8bb7310af9e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/bansal/.android/build-cache/761f0a344eefe8fff93f43e1f1b48db06efdbdee/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/bansal/.android/build-cache/74e67b03b4ac55e6286459dcd36b6aea673e8c23/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/bansal/.android/build-cache/e1d03aca4729e66fa0c098d04fe4787b2501bb93/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] /home/bansal/.android/build-cache/8ee6d2ce8704f31fb073e3e603aa01e6a36ff103/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /home/bansal/.android/build-cache/3641e1ed46d746c977523785a6f267fe57168ec3/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /home/bansal/.android/build-cache/2b8c02a864361acd2144f82ccb14f0eee6690779/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /home/bansal/.android/build-cache/bf91e87559c4af8d9bdd02b6744703b0de93b912/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /home/bansal/.android/build-cache/2565fbb551af4edb7909be948eb65263b141d34c/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/bansal/.android/build-cache/38f047a7e609e7a463038c63a307cec4dec33787/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/bansal/.android/build-cache/4a949c2cf210339822145bf44cac8e32a010629d/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/bansal/.android/build-cache/1f75a7b4640d26837f6dc61ba22cf1c156fdad8f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/bansal/.android/build-cache/809d4c17f8519859a90c76a2a4688ac9f41fa376/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/bansal/.android/build-cache/be09943c3240bd55cddcf48ff965a30e9b3319b9/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/bansal/.android/build-cache/816cc0096b332bc83b755691a5054d64e3d0b233/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bansal/AndroidStudioProjects/Application_Card/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/bansal/.android/build-cache/816cc0096b332bc83b755691a5054d64e3d0b233/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/bansal/.android/build-cache/f788751e824b684ba95e19cc5cfce343b8d57532/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/bansal/.android/build-cache/50feeb7dc9ca6d1bd905d1fc8a4d7e19b7c5e4a5/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/bansal/.android/build-cache/456323e6b496ef647e785e64cd90d8bb7310af9e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/bansal/.android/build-cache/761f0a344eefe8fff93f43e1f1b48db06efdbdee/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/bansal/.android/build-cache/e1d03aca4729e66fa0c098d04fe4787b2501bb93/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/bansal/.android/build-cache/2565fbb551af4edb7909be948eb65263b141d34c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/bansal/.android/build-cache/38f047a7e609e7a463038c63a307cec4dec33787/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/bansal/.android/build-cache/4a949c2cf210339822145bf44cac8e32a010629d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/bansal/.android/build-cache/1f75a7b4640d26837f6dc61ba22cf1c156fdad8f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/bansal/.android/build-cache/809d4c17f8519859a90c76a2a4688ac9f41fa376/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/bansal/.android/build-cache/be09943c3240bd55cddcf48ff965a30e9b3319b9/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/bansal/.android/build-cache/816cc0096b332bc83b755691a5054d64e3d0b233/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/bansal/.android/build-cache/816cc0096b332bc83b755691a5054d64e3d0b233/output/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:10.2.6] /home/bansal/.android/build-cache/8ee6d2ce8704f31fb073e3e603aa01e6a36ff103/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] /home/bansal/.android/build-cache/8ee6d2ce8704f31fb073e3e603aa01e6a36ff103/output/AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.6] /home/bansal/.android/build-cache/8ee6d2ce8704f31fb073e3e603aa01e6a36ff103/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] /home/bansal/.android/build-cache/8ee6d2ce8704f31fb073e3e603aa01e6a36ff103/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] /home/bansal/.android/build-cache/8ee6d2ce8704f31fb073e3e603aa01e6a36ff103/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/bansal/.android/build-cache/3641e1ed46d746c977523785a6f267fe57168ec3/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/bansal/.android/build-cache/3641e1ed46d746c977523785a6f267fe57168ec3/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/bansal/.android/build-cache/3641e1ed46d746c977523785a6f267fe57168ec3/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/bansal/.android/build-cache/3641e1ed46d746c977523785a6f267fe57168ec3/output/AndroidManifest.xml:19:19-85
